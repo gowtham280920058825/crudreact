@@ -1,0 +1,59 @@
+{
+  "employees": [
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "555-123-4567",
+      "department": "Marketing",
+      "designation": "Marketing Manager",
+      "salary": 65000,
+      "address": "123 Main Street",
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Arjun Patel",
+      "email": "arjun.patel@example.com",
+      "phone": "555-765-4321",
+      "department": "Engineering",
+      "designation": "Software Engineer",
+      "salary": 78000,
+      "address": "456 Elm Street",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "createdAt": "2026-05-15"
+    },
+    {
+      "id": 4,
+      "name": "Sofia Martinez",
+      "email": "sofia.martinez@example.com",
+      "phone": "555-321-6789",
+      "department": "Human Resources",
+      "designation": "HR Specialist",
+      "salary": 58000,
+      "address": "240 Pine Road",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA",
+      "createdAt": "2026-06-10"
+    },
+    {
+      "name": "gaig",
+      "email": "gowthamc.23msc@kongu.edu",
+      "phone": "647647476",
+      "department": "Marketing",
+      "designation": "Marketing Manager",
+      "salary": "800000",
+      "address": "hghgfh",
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA",
+      "createdAt": "2026-06-25",
+      "id": 5
+    }
+  ]
+}
